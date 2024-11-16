@@ -3,62 +3,85 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Andrei Shpileuski Portfolio</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        margin: 0;
+        background-color: #202020;
+        padding: 20px;
+        color: #202020;
+    }
+    p {
+       //margin: 0;
+    }
+    h1, h2, h3, h4 {
+        margin: 12px 0;
+        color: white;
+    }
+    h1 {
+        font-size: 2.5em;
+    }
+    a {
+        color: #3498db;
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+    .section {
+        margin-bottom: 20px;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+    .socials img {
+        height: 40px;
+        transition: transform 0.2s;
+    }
+    .socials img:hover {
+        transform: scale(1.2);
+    }
+</style>
 </head>
 <body>
-<div style="display: flex; flex-direction: column; align-items: flex-start; justify-content: center">
-<h1 style="margin: 0">Andrei Shpileuski</h1>
-<h3 style="margin: 0">Frontend Developer (Angular) ♦ TM ♦ TL</h3>
+<div class="section" style="text-align: center;">
+    <h1 style="margin: 0">Andrei Shpileuski</h1>
+    <h3>Frontend Developer (Angular) ♦ TM ♦ TL</h3>
 </div>
-<hr>
-<div>
-<span>Responsible for ArtForIntrovert (<a href="https://new.artforintrovert.ru">RU version</a> | <a href="https://new.artforintrovert.com">En version</a>)</span>
-<br>
-<span>Commercial experience - <span id="experience" style="font-family: 'Courier New', monospace;">calculating...</span></span>
-<br>
-<span>More than 10 commercial projects: BI system, B2B auction, AR game, Education platform, Delivery platform, CMS, CRM, Internet banking, etc.</span>
+<div class="section">
+    <h4>ABOUT ME</h4>
+    <p>
+        Hello! I am Andrei, a passionate frontend developer with over 3.5 years of experience.
+        I specialize in building intuitive, responsive, and scalable web applications.
+    </p>
+    <p>
+        Currently, I am responsible for leading 
+        <b>ArtForIntrovert</b> (<a href="https://new.artforintrovert.ru">RU</a> | 
+        <a href="https://new.artforintrovert.com">EN</a>).
+    </p>
+    <p>
+        My experience spans more than 10 projects, including BI systems, B2B auctions, AR games, 
+        educational platforms, delivery platforms, CMS, CRM, and internet banking solutions.
+    </p>
 </div>
-<hr>
-<div>
-<span><b>Web Technologies: </b>HTML</span>
-<br>
-<span><b>Styling: </b>CSS, SCSS/SASS, Tailwind CSS, BEM methodology</span>
-<br>
-<span><b>UI Libraries: </b>PrimeNG, Angular material, Nebular, Taiga UI</span>
-<br>
-<span><b>Programming Languages: </b>JavaScript, TypeScript</span>
-<br>
-<span><b>Frameworks and Libraries: </b>Angular, Angular SSR, RxJS, NgRx, NGXS</span>
-<br>
-<span><b>Version Control and Hosting: </b>GIT, GitHub, Bitbucket, GitLab</span>
-<hr>
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: flex-start; gap: 12px">
-<a href="mailto:shpilevskiy.aa@gmail.com"><img style="height: 40px" src="/assets/images/socials/gmail.png" alt=""></a>
-<a href="https://www.linkedin.com/in/andrei-shpileuski/"><img style="height: 34px" src="/assets/images/socials/linked-in.png" alt=""></a>
-<a href="https://t.me/andrei_shpileuski"><img style="height: 34px" src="/assets/images/socials/telegram.png" alt=""></a>
+<div class="section">
+    <h4>STACK</h4>
+    <p><b>Web Technologies:</b> HTML</p>
+    <p><b>Styling:</b> CSS, SCSS/SASS, Tailwind CSS, BEM methodology</p>
+    <p><b>UI Libraries:</b> PrimeNG, Angular Material, Nebular, Taiga UI</p>
+    <p><b>Programming Languages:</b> JavaScript, TypeScript</p>
+    <p><b>Frameworks:</b> Angular, Angular SSR, RxJS, NgRx, NGXS</p>
+    <p><b>Version Control:</b> GIT, GitHub, Bitbucket, GitLab</p>
 </div>
+<div class="section">
+    <h4>GET IN TOUCH</h4>
+    <div class="socials" style="display: flex; gap: 15px;">
+        <a href="mailto:shpilevskiy.aa@gmail.com"><img src="/assets/images/socials/gmail.png" alt="Gmail"></a>
+        <a href="https://www.linkedin.com/in/andrei-shpileuski/"><img src="/assets/images/socials/linked-in.png" alt="LinkedIn"></a>
+        <a href="https://t.me/andrei_shpileuski"><img src="/assets/images/socials/telegram.png" alt="Telegram"></a>
+    </div>
 </div>
-<script>
-    const START_DATE = "2022-03-01";
-    function calculateWorkExperience(startDate) {
-        const start = new Date(startDate);
-        const now = new Date();
-        let diff = now - start;
-        const years = Math.floor(diff / (1000 * 60 * 60 * 24 * 365));
-        diff -= years * (1000 * 60 * 60 * 24 * 365);
-        const months = Math.floor(diff / (1000 * 60 * 60 * 24 * 30));
-        diff -= months * (1000 * 60 * 60 * 24 * 30);
-        const days = Math.floor(diff / (1000 * 60 * 60 * 24));
-        diff -= days * (1000 * 60 * 60 * 24);
-        const hours = Math.floor(diff / (1000 * 60 * 60));
-        diff -= hours * (1000 * 60 * 60);
-        const minutes = Math.floor(diff / (1000 * 60));
-        diff -= minutes * (1000 * 60);
-        const seconds = Math.floor(diff / 1000);
-        return `${years} yr ${months} m ${days} d ${hours} h ${minutes} min ${seconds} sec`;
-    }
-    document.addEventListener("DOMContentLoaded", () => {
-        document.getElementById("experience").textContent = calculateWorkExperience(START_DATE);
-    });
-</script>
 </body>
 </html>
