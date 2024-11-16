@@ -27,6 +27,19 @@
 
 ---
 
+### 🎓 Certifications
+
+| **Company**   | **Skill**          | **Certification name**                         | **Link**                                                                                               |
+|---------------|--------------------|------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| ITechArt      | Frontend (Angular) | Front-End (Angular) internship                 | [View Certificate](https://drive.google.com/file/d/1a1lhUDimhxikYQpQtbVJIvgp5nLpDGVe/view?usp=sharing) |
+| ITechArt      | Backend (.NET)     | .NET internship                                | [View Certificate](https://drive.google.com/file/d/184t0nJa95EsoxDpkbdDYkxOgigpKeN6W/view?usp=sharing) |
+| CPD (Alison)  | Angular            | Introduction to Angular 2                      | [View Certificate](https://drive.google.com/file/d/1yVywbdeaG4axxlibvh2Uqgi_UuKlsKzo/view?usp=sharing) |
+| DVFU (Stepik) | SQL                | Interactive SQL trainer                        | [View Certificate](https://drive.google.com/file/d/1IpM-35NWf2VWpcK5_NGFXC3btYGzAUeE/view?usp=sharing) |
+| Microsoft     | Azure              | Microsoft Certified: Azure Fundamentals        | [View Certificate](https://drive.google.com/file/d/1_D9UnSw2ZLZp3oozcVTmbkg8StLMDF65/view?usp=sharing) |
+| Kraken        | Git                | Git certified by GitKraken. Foundations of Git | [View Certificate](https://drive.google.com/file/d/1ZGvj8HKk6aVM-7BmlQMpwMEEFs-4R2sW/view?usp=sharing) |
+
+---
+
 ### 📫 Get in Touch
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shpilevskiy.aa@gmail.com)
