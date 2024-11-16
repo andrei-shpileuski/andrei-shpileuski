@@ -1,13 +1,14 @@
 # 👋 Hi, I'm Andrei Shpileuski
 
-### 💻 Frontend Developer (Angular) ♦ Team Manager ♦ Tech Lead
+#### 💻 Frontend Developer (Angular) ♦ Team Manager ♦ Tech Lead
 
 ---
 
 ### 📝 About Me
 
-- 3.5+ years of commercial experience
+- ⚔️ 3.5+ years of commercial experience
 - 🔭 Currently leading **[ArtForIntrovert](https://new.artforintrovert.com)** *(Also available in [Russian](https://new.artforintrovert.ru))*
+- 👨🏻‍💼 Managed projects from 0 to MVP
 - 💼 Worked on **10+ projects**, including:  
   BI systems, B2B auctions, AR games, education platforms, delivery platforms, CMS, CRM, and internet banking.
 
@@ -15,12 +16,14 @@
 
 ### ⚙️ Tech Stack
 
-- **Web Technologies**: HTML
-- **Styling**: CSS, SCSS/SASS, Tailwind CSS, BEM
-- **UI Libraries**: PrimeNG, Angular Material, Nebular, Taiga UI
-- **Languages**: JavaScript, TypeScript
-- **Frameworks**: Angular, Angular SSR, RxJS, NgRx, NGXS
-- **Version Control**: Git, GitHub, Bitbucket, GitLab
+| **Category**              | **Technologies**                             |
+|---------------------------|----------------------------------------------|
+| **Web Technologies**      | HTML                                         |
+| **Styling**               | CSS, SCSS/SASS, Tailwind CSS, BEM            |
+| **UI Libraries**          | PrimeNG, Angular Material, Nebular, Taiga UI |
+| **Programming Languages** | JavaScript, TypeScript                       |
+| **Frameworks**            | Angular, Angular SSR, RxJS, NgRx, NGXS       |
+| **Version Control**       | Git, GitHub, Bitbucket, GitLab               |
 
 ---
 
