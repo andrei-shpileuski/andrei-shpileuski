@@ -10,23 +10,23 @@
 ### 📝 About Me
 
 - ⚔️ 3.5+ years of commercial experience
-- 🔭 Currently leading **[ArtForIntrovert](https://new.artforintrovert.com)** *(Also available in [Russian](https://new.artforintrovert.ru))*
+- 🔭 Currently leading **[ArtForIntrovert](https://new.artforintrovert.com)** *(also available in [Russian](https://new.artforintrovert.ru))*
 - 👨🏻‍💼 Managed projects from 0 to MVP
 - 💼 Worked on **10+ projects**, including:  
-  BI systems, B2B auctions, AR games, education platforms, delivery platforms, CMS, CRM, and internet banking.
+  BI system, B2B auction, AR gam, education platform, delivery platform, CMS, CRM, internet banking, etc.
 
 ---
 
 ### ⚙️ Tech Stack
 
-| **Category**              | **Technologies**                             |
-|---------------------------|----------------------------------------------|
-| **Web Technologies**      | HTML                                         |
-| **Styling**               | CSS, SCSS/SASS, Tailwind CSS, BEM            |
-| **UI Libraries**          | PrimeNG, Angular Material, Nebular, Taiga UI |
-| **Programming Languages** | JavaScript, TypeScript                       |
-| **Frameworks**            | Angular, Angular SSR, RxJS, NgRx, NGXS       |
-| **Version Control**       | Git, GitHub, Bitbucket, GitLab               |
+| **Category**              | **Technologies**                                      |
+|---------------------------|-------------------------------------------------------|
+| **Web Technologies**      | HTML                                                  |
+| **Styling**               | CSS, SCSS/SASS, Tailwind CSS, BEM                     |
+| **UI Libraries**          | PrimeNG, Angular Material, Nebular, Taiga UI, Ag Grid |
+| **Programming Languages** | JavaScript, TypeScript                                |
+| **Frameworks**            | Angular, Angular SSR, RxJS, NgRx, NGXS, Ionic         |
+| **Version Control**       | Git, GitHub, Bitbucket, GitLab                        |
 
 ---
 
