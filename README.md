@@ -13,7 +13,7 @@
 - 🔭 Currently leading **[ArtForIntrovert](https://new.artforintrovert.com)** *(also available in [Russian](https://new.artforintrovert.ru))*
 - 👨🏻‍💼 Managed projects from 0 to MVP
 - 💼 Worked on **10+ projects**, including:  
-  BI system, B2B auction, AR gam, education platform, delivery platform, CMS, CRM, internet banking, etc.
+  BI system, B2B auction, AR game, education platform, delivery platform, CMS, CRM, internet banking, etc.
 
 ---
 
