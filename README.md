@@ -9,7 +9,7 @@
 
 ### 📝 About Me
 
-- ⚔️ 3.5+ years of commercial experience
+- ⚔️ 4+ years of commercial experience
 - 🔭 Currently leading **[ArtForIntrovert](https://new.artforintrovert.com)** *(also available in [Russian](https://new.artforintrovert.ru))*
 - 👨🏻‍💼 Managed projects from 0 to MVP
 - 💼 Worked on **10+ projects**, including:  
